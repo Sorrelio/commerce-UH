@@ -12,7 +12,7 @@
         "jqueryprint": {
             "type": "package",
             "package": {
-                "name": "DoersGuild/jQuery.print",
+                "name": "doersguild/jquery.print",
                 "version": "master",
                 "type": "drupal-library",
                 "source": {
